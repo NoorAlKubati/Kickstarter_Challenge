@@ -34,11 +34,10 @@ There are two challenges that I faced when I was doing this project. The first i
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The theater campaign was way more successful than the failed one. However, they met at the end of the year. Additionally, the highest rate of the successful the campaign was between April and August.
+       - The theater campaign was way more successful than the failed one. However, they met at the end of the year. Additionally, the highest rate of the successful the campaign was between April and August.
 - What can you conclude about the Outcomes based on Goals?
-We could conclude that there is a negative correlation between outcomes based on goals and time. 
+       - We could conclude that there is a negative correlation between outcomes based on goals and time. 
 - What are some limitations of this dataset?
-One of limitations I could notice was the lack of data on canceled campaigns. Another limitation is that campaigns with larger goals were very limited and thus conclusions about them might not be robust.
-
+       - One of limitations I could notice was the lack of data on canceled campaigns. Another limitation is that campaigns with larger goals were very limited and thus conclusions about them might not be robust.
 - What are some other possible tables and/or graphs that we could create?
-I could create other columns to compare between the pledged and the goal. I could do column to see what country participated more. Even a more complex graph would show the parent category and sub category per country. 
+       - I could create other columns to compare between the pledged and the goal. I could do column to see what country participated more. Even a more complex graph would show the parent category and sub category per country. 
