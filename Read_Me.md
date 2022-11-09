@@ -9,6 +9,7 @@ This project looks into the outcomes based of goal and launch date. The outcomes
 This analysis aims to examine the realtionship between the campaign outcomes with the goals and launch date. 
 ## Analysis and Challenges
 ### Theater Outcomes by Launch Date
+
 ![](Theater_Outcomes_vs_Launch.png)
 First, I  created a pivot table from the specified worksheet and filtered it based on two elements: the parent category and years. Then I organized the table by adding more details like rows, columns, and values. Next, I filtered the columns based on successful, failed, and canceled of the project, and I removed the live category. On the other hand, I filtered the parent category based on the date of the theater. For this step, I sort the campaign results in a descending order. After that, I stablish the line chart from the pivot table to visualize the relationship between outcomes and launch date based on month. Last I add filter to the topic of the chart and save all the work and printed the cart into a PNG file.
 
