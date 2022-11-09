@@ -26,6 +26,7 @@ The graph shows the theater outcomes based on launch date. It successed a notice
 The graph shows that when the goal was less than 1000 the percentage of success was way more higher than the fail. But when the goal starts to increase, they switch. That explains that the success starts decreasing vice the failure which starts increase.
 
 ### Challenges and Difficulties Encountered
+There are two challenges that I faced when I was doing this project. The first is when i convert the time from unix to regular format. The socend is figuring out how to do the screenshot link to the read me.
 
 
 ## Results
